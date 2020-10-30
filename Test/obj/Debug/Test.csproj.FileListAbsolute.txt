@@ -101,3 +101,7 @@ C:\Users\Admin\source\repos\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\Test\obj\Debug\Test.csproj.CopyComplete
 C:\Users\Admin\source\repos\Test\obj\Debug\Test.dll
 C:\Users\Admin\source\repos\Test\obj\Debug\Test.pdb
+C:\Users\hungc\Documents\GitHub\ASP-Net\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\hungc\Documents\GitHub\ASP-Net\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\hungc\Documents\GitHub\ASP-Net\Test\obj\Debug\Test.dll
+C:\Users\hungc\Documents\GitHub\ASP-Net\Test\obj\Debug\Test.pdb

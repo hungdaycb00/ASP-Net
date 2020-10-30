@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using System.Security.Claims;
 using System.Security.Principal;
 using System.Web;
+using Test.Models;
 using System.Web.Security;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using Microsoft.AspNet.Identity;
+using System.Linq;
 
 namespace Test
 {
@@ -75,6 +77,20 @@ namespace Test
         protected void Unnamed_LoggingOut(object sender, LoginCancelEventArgs e)
         {
             Context.GetOwinContext().Authentication.SignOut(DefaultAuthenticationTypes.ApplicationCookie);
+        }
+
+        // The return type can be changed to IEnumerable, however to support
+        // paging and sorting, the following parameters must be added:
+        //     int maximumRows
+        //     int startRowIndex
+        //     out int totalRowCount
+        //     string sortByExpression
+        public IQueryable<Category> categoryList_GetData()
+        {
+            var _db = new Test.Models.ProductContext();
+            IQueryable<Category> query = _db.Categories;
+
+            return query;
         }
     }
 

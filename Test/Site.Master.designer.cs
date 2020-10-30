@@ -7,11 +7,31 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Test {
-    
-    
-    public partial class SiteMaster {
-        
+namespace Test
+{
+
+
+    public partial class SiteMaster
+    {
+
+        /// <summary>
+        /// Imagel control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Image Imagel;
+
+        /// <summary>
+        /// categoryList control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ListView categoryList;
+
         /// <summary>
         /// MainContent control.
         /// </summary>
