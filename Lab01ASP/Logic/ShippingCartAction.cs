@@ -88,10 +88,11 @@ namespace Lab01ASP.Logic
         public ShippingCartAction  GetCart(HttpContext context)
         {
             using (var cart = new ShippingCartAction())
-{
+            {
                 cart.ShoppingCartId = cart.GetCartId();
                 return cart; 
-}
+            }
         }
+    
     }
 }
