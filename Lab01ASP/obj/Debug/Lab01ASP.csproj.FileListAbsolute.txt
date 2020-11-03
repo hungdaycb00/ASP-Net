@@ -203,3 +203,4 @@ C:\Users\hungc\Documents\GitHub\ASP-Net\Lab01ASP\obj\Debug\Lab01ASP.csproj.CopyC
 C:\Users\hungc\Documents\GitHub\ASP-Net\Lab01ASP\obj\Debug\Lab01ASP.dll
 C:\Users\hungc\Documents\GitHub\ASP-Net\Lab01ASP\obj\Debug\Lab01ASP.pdb
 C:\Users\hungc\Documents\GitHub\ASP-Net\Lab01ASP\obj\Debug\Lab01ASP.csprojAssemblyReference.cache
+C:\Users\Admin\source\ASp\ASP-Net\Lab01ASP\obj\Debug\Lab01ASP.csprojAssemblyReference.cache
