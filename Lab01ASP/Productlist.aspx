@@ -6,7 +6,7 @@
                 <h2><%: Page.Title %></h2>
             </hgroup>
             <asp:ListView ID="productList" runat="server"
-                DataKeyNames="ProductID" GroupItemCount="4"
+                DataKeyNames="ProductID" GroupItemCount="2"
                 ItemType="Lab01ASP.Models.Product" SelectMethod="GetProducts">
                 <EmptyDataTemplate>
                     <table>
