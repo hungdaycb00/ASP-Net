@@ -15,8 +15,7 @@ namespace Lab01ASP
         {
 
         }
-        public IQueryable<Product> GetProducts([QueryString("id")] int?
-categoryId)
+        public IQueryable<Product> GetProducts([QueryString("id")] int? categoryId)
         {
             var _db = new Lab01ASP.Models.ProductContext();
             IQueryable<Product> query = _db.Products;

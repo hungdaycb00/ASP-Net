@@ -71,7 +71,7 @@ namespace Lab01ASP
                 usersShoppingCart.UpdateShoppingCartDatabase(cartId, cartUpdates);
                 CartList.DataBind();
                 lblTotal.Text = String.Format( "{0:c}", usersShoppingCart.GetTotal());
-                return usersShoppingCart.GetCartItems(); 
+                return usersShoppingCart.GetCastItems(); 
                 
                 }
              }
