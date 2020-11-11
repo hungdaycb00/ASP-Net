@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\hungc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\ASp\\ASP-Net\\BookAPI\\BookAPI.csproj",
+      "projectUniqueName": "C:\\Users\\hungc\\Documents\\GitHub\\ASP-Net\\BookAPI\\BookAPI.csproj",
       "projectName": "BookAPI",
-      "projectPath": "C:\\Users\\Admin\\source\\ASp\\ASP-Net\\BookAPI\\BookAPI.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\ASp\\ASP-Net\\BookAPI\\obj\\",
+      "projectPath": "C:\\Users\\hungc\\Documents\\GitHub\\ASP-Net\\BookAPI\\BookAPI.csproj",
+      "packagesPath": "C:\\Users\\hungc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hungc\\Documents\\GitHub\\ASP-Net\\BookAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hungc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

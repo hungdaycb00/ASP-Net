@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FHhT8its+8sKEMt3ut8XDy9oNA3eK2MOQusWefkdg1ooEqt3sJoAhR1Jhg5Mj32cnxHYcBlVw1coKXaIaTiPOg==",
+  "dgSpecHash": "ITHhSdxIZCz8KmiupEp9V3vflrIQphO4cf0XJOcE6L9TVgwX0UxxmixO8eXEIsZbSJj1E6+CUb7LaBdLY7ZC2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\ASp\\ASP-Net\\BookAPI\\BookAPI.csproj",
+  "projectFilePath": "C:\\Users\\hungc\\Documents\\GitHub\\ASP-Net\\BookAPI\\BookAPI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

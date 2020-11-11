@@ -20,7 +20,7 @@ namespace BookWS8.Controllers
         //Post: Customer/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create([Bind("Name,EmailId")] CustomerModel customerModel)
+        public IActionResult Create([Bind("Name, EmailId")] CustomerModel customerModel)
         {
             if (ModelState.IsValid)
             {

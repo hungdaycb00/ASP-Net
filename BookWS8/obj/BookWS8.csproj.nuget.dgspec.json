@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\ASp\\ASP-Net\\BookWS8\\BookWS8.csproj": {}
+    "C:\\Users\\hungc\\Documents\\GitHub\\ASP-Net\\BookWS8\\BookWS8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\ASp\\ASP-Net\\BookWS8\\BookWS8.csproj": {
+    "C:\\Users\\hungc\\Documents\\GitHub\\ASP-Net\\BookWS8\\BookWS8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\ASp\\ASP-Net\\BookWS8\\BookWS8.csproj",
+        "projectUniqueName": "C:\\Users\\hungc\\Documents\\GitHub\\ASP-Net\\BookWS8\\BookWS8.csproj",
         "projectName": "BookWS8",
-        "projectPath": "C:\\Users\\Admin\\source\\ASp\\ASP-Net\\BookWS8\\BookWS8.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\ASp\\ASP-Net\\BookWS8\\obj\\",
+        "projectPath": "C:\\Users\\hungc\\Documents\\GitHub\\ASP-Net\\BookWS8\\BookWS8.csproj",
+        "packagesPath": "C:\\Users\\hungc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hungc\\Documents\\GitHub\\ASP-Net\\BookWS8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hungc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,6 +38,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.4, )"

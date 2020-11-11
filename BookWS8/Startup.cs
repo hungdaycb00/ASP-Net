@@ -50,7 +50,7 @@ namespace BookWS8
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Book}/{action=Create}/{id?}");
+                    pattern: "{controller=Customer}/{action=Create}/{id?}");
             });
            
         }
