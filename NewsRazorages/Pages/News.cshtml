@@ -1,0 +1,31 @@
+﻿@page
+@model NewsRazorages.Pages.NewsModel
+@{
+}
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>News today</title>
+</head>
+<body>
+    <h1>@Model.news.Title</h1>
+    <img src="@Model.news.ImgURL" alt="Alternate Text" asp-for="news.ImgURL" />
+    <h3>Description</h3>
+    <p>@Model.news.Description</p>
+    <h3>Content</h3>
+    <p>@Model.news.Content</p>
+
+    <form method="post">
+        <label>ID:</label>
+        <input type="number" asp-for="news.Id" /><br />
+        <label>Title:</label>
+        <input type="text" asp-for="news.Title" /><br />
+        <label>ImgURL:</label>
+        <input type="text" asp-for="news.ImgURL" /><br />
+        <label>Content:</label>
+        <input type="text" asp-for="news.Content" /><br />
+        <label>Desciption:</label>
+        <input type="text" asp-for="news.Description" /><br />
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,17 @@
+﻿@model HelloWorldMC.Models.AppMessage
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Hello World App</title>
+</head>
+<body>
+    <h1>@Model.Message</h1>
+    <hr />
+    <form method="post" asp-controller="Home" asp-action="Index">
+        <label asp-for="Message">Enter Message: </label>
+        <br /><br />
+        <input type="text" asp-for="Message"/>
+        <br /><br />
+        <button type="submit">Sublit</button>
+    </form>
+</body>
+</html>

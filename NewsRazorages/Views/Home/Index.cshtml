@@ -1,0 +1,21 @@
+﻿@model NewsRazorages.Models.Users;
+
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Home Page</title>
+    </head>
+    <body>
+        <h1>Your information:</h1>
+        <label>@Model.Name</label><br />
+        <label>@Model.Password</label><br />
+        <hr />
+        <form asp-action="Index" method="post" asp-controller="Home">
+            <label>Login</label>
+            <br />
+            <input type="text" asp-for="Name"  /><br />
+            <input type="text" asp-for="Password"  /><br />
+            <button type="submit">Submit</button>
+        </form>
+
+    </body>
+    </html>
