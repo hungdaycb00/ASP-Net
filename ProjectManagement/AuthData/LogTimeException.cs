@@ -26,7 +26,8 @@ namespace ProjectManagement.AuthData
 
         private void Log(string message)
         {
-            string path = Path.GetFullPath(@"C:\Users\Admin\source\ASp\ASP-Net\ProjectManagement\Content\Data.txt");
+            //string path = Path.GetFullPath("~/Content/Data.txt").Replace("~\\", "");
+            string path = Path.GetFullPath(@"C:\Users\hungc\Documents\GitHub\ASP-Net\ProjectManagement\Content\Data.txt");
 
             File.AppendAllText(path, message);
         }
