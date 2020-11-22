@@ -28,6 +28,8 @@ namespace ContosoCraftsWebsite
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddServerSideBlazor();
+            services.AddControllers();
             services.AddTransient<JsonFileProductServices>();
         }
 
@@ -54,13 +56,15 @@ namespace ContosoCraftsWebsite
 
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapControllers();
                 endpoints.MapRazorPages();
-                endpoints.MapGet("/products", (context) =>
-                {
-                    var products = app.ApplicationServices.GetService<JsonFileProductServices>().GetProducts();
-                    var json = JsonSerializer.Serialize<IEnumerable<Product>>(products);
-                    return context.Response.WriteAsync(json);
-                });
+                endpoints.MapBlazorHub();
+                //endpoints.MapGet("/products", (context) =>
+                //{
+                //    var products = app.ApplicationServices.GetService<JsonFileProductServices>().GetProducts();
+                //    var json = JsonSerializer.Serialize<IEnumerable<Product>>(products);
+                //    return context.Response.WriteAsync(json);
+                //});
             });
         }
     }
