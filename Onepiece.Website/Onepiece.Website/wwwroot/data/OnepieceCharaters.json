@@ -1,0 +1,81 @@
+[
+  {
+    "Id": "Arlong",
+    "img": "https://cdn.myanimelist.net/images/characters/12/350919.jpg",
+    "Url": "https://onepiece.fandom.com/wiki/Arlong",
+    "Title": "Arlong the Saw",
+    "Description": "Arlong the Saw is a sawshark fish-man.",
+    "Ratings": [
+      4
+    ]
+  },
+  {
+    "Id": "Nami",
+    "img": "https://i.pinimg.com/originals/b5/18/41/b5184140825f914de13903d6f4ec1d5c.jpg",
+    "Url": "https://onepiece.fandom.com/wiki/Nami",
+    "Title": "Cat Burglar",
+    "Description": "Cat Burglar Nami is the navigator of the Straw Hat Pirates.",
+    "Ratings": [
+      5,
+      5
+    ]
+  },
+  {
+    "Id": "Sanji",
+    "img": "https://gamek.mediacdn.vn/2018/10/2/5182975-4986154-sanji-15384520844341535132538.jpg",
+    "Url": "https://onepiece.fandom.com/wiki/Sanji",
+    "Title": "Black Leg Sanji",
+    "Description": "Sanji born as Vinsmoke Sanji, is the cook of the Straw Hat Pirates.",
+    "Ratings": null
+  },
+  {
+    "Id": "Roronoa Zoro",
+    "img": "https://gamek.mediacdn.vn/133514250583805952/2020/11/11/photo-1-1605088347067237803923.png",
+    "Url": "https://onepiece.fandom.com/wiki/Roronoa_Zoro",
+    "Title": "Pirate Hunter Zoro",
+    "Description": "Roronoa Zoro,[1] also known as Pirate Hunter Zoro,[8] is the combatant of the Straw Hat Pirates, and one of their two swordsmen.",
+    "Ratings": [
+      5
+    ]
+  },
+  {
+    "Id": "Brook",
+    "img": "https://i.pinimg.com/originals/ea/d1/52/ead1521e6aa163b96dd887a062a0825a.gif",
+    "Url": "https://onepiece.fandom.com/wiki/Brook",
+    "Title": "Soul King",
+    "Description": "Soul King Brook is the musician of the Straw Hat Pirates,[15] and one of their two swordsmen.",
+    "Ratings": null
+  },
+  {
+    "Id": "Jinbe",
+    "img": "https://i.imacdn.com/ta/2017/03/10/3e37e8b895e155ac_5c91b565515e9868_14058214891345336143215.jpg",
+    "Url": "https://onepiece.fandom.com/wiki/Jinbe",
+    "Title": "Knight of the Sea",
+    "Description": "Knight of the Sea Jinbe[1] is the helmsman of the Straw Hat Pirates. He is the tenth member of the crew and the ninth to join, doing so during the Wano Country Arc.[18]",
+    "Ratings": null
+  },
+  {
+    "Id": "Tony Tony Chopper",
+    "img": "https://gamek.mediacdn.vn/133514250583805952/2020/8/24/sss1-1598260335309972535042.png",
+    "Url": "https://onepiece.fandom.com/wiki/Tony_Tony_Choppero",
+    "Title": "Tony Tony Chopper",
+    "Description": "ony Tony Chopper, also known as Cotton Candy Lover Chopper,[3] is the doctor of the Straw Hat Pirates.",
+    "Ratings": null
+  },
+  {
+    "Id": "Kozuki Momonosuke",
+    "img": "https://gamek.mediacdn.vn/133514250583805952/2020/4/21/anh-4-1587481938231172461539.jpg",
+    "Url": "https://onepiece.fandom.com/wiki/Kozuki_Momonosuke",
+    "Title": "Kozuki Momonosuke",
+    "Description": "Kozuki Momonosuke is an inhabitant of Wano Country and the son of the late daimyo of the Kuri region and patriarch of the Kozuki Family, Kozuki Oden.",
+    "Ratings": null
+  },
+  {
+    "Id": "Kozuki Momonosuke",
+    "img": "https://gamek.mediacdn.vn/133514250583805952/2020/4/21/anh-4-1587481938231172461539.jpg",
+    "Url": "https://onepiece.fandom.com/wiki/Kozuki_Momonosuke",
+    "Title": "Kozuki Momonosuke",
+    "Description": "Kozuki Momonosuke is an inhabitant of Wano Country and the son of the late daimyo of the Kuri region and patriarch of the Kozuki Family, Kozuki Oden.",
+    "Ratings": null
+  }
+]

@@ -1,0 +1,15 @@
+﻿@page
+@using Onepiece.Website.Components
+@model IndexModel
+
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">One Piece Character</h1><br />
+</div>
+
+@(await Html.RenderComponentAsync<CharacterList>(RenderMode.ServerPrerendered))
+
+<script src="_framework/blazor.server.js"></script>
