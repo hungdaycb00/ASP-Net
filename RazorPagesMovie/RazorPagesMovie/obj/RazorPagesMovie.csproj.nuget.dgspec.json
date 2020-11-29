@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\ASp\\ASP-Net\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "C:\\Users\\hungc\\Documents\\GitHub\\ASP-Net\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\ASp\\ASP-Net\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "C:\\Users\\hungc\\Documents\\GitHub\\ASP-Net\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\ASp\\ASP-Net\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "C:\\Users\\hungc\\Documents\\GitHub\\ASP-Net\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "C:\\Users\\Admin\\source\\ASp\\ASP-Net\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\ASp\\ASP-Net\\RazorPagesMovie\\RazorPagesMovie\\obj\\",
+        "projectPath": "C:\\Users\\hungc\\Documents\\GitHub\\ASP-Net\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "packagesPath": "C:\\Users\\hungc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hungc\\Documents\\GitHub\\ASP-Net\\RazorPagesMovie\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hungc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
