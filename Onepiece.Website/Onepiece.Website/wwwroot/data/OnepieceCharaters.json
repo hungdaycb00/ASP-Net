@@ -44,7 +44,9 @@
     "Url": "https://onepiece.fandom.com/wiki/Brook",
     "Title": "Soul King",
     "Description": "Soul King Brook is the musician of the Straw Hat Pirates,[15] and one of their two swordsmen.",
-    "Ratings": null
+    "Ratings": [
+      5
+    ]
   },
   {
     "Id": "Jinbe",
@@ -52,7 +54,9 @@
     "Url": "https://onepiece.fandom.com/wiki/Jinbe",
     "Title": "Knight of the Sea",
     "Description": "Knight of the Sea Jinbe[1] is the helmsman of the Straw Hat Pirates. He is the tenth member of the crew and the ninth to join, doing so during the Wano Country Arc.[18]",
-    "Ratings": null
+    "Ratings": [
+      5
+    ]
   },
   {
     "Id": "Tony Tony Chopper",
