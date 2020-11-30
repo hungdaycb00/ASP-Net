@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\ASp\\ASP-Net\\NewsRazorages\\NewsRazorages.csproj": {}
+    "C:\\Users\\hungc\\Documents\\GitHub\\ASP-Net\\NewsRazorages\\NewsRazorages.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\ASp\\ASP-Net\\NewsRazorages\\NewsRazorages.csproj": {
+    "C:\\Users\\hungc\\Documents\\GitHub\\ASP-Net\\NewsRazorages\\NewsRazorages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\ASp\\ASP-Net\\NewsRazorages\\NewsRazorages.csproj",
+        "projectUniqueName": "C:\\Users\\hungc\\Documents\\GitHub\\ASP-Net\\NewsRazorages\\NewsRazorages.csproj",
         "projectName": "NewsRazorages",
-        "projectPath": "C:\\Users\\Admin\\source\\ASp\\ASP-Net\\NewsRazorages\\NewsRazorages.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\ASp\\ASP-Net\\NewsRazorages\\obj\\",
+        "projectPath": "C:\\Users\\hungc\\Documents\\GitHub\\ASP-Net\\NewsRazorages\\NewsRazorages.csproj",
+        "packagesPath": "C:\\Users\\hungc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hungc\\Documents\\GitHub\\ASP-Net\\NewsRazorages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hungc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

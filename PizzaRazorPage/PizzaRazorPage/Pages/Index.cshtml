@@ -1,0 +1,27 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+</div>
+
+<div class="card-columns">
+    @foreach (var product in Model.GetProducts)
+    {
+    <div class="card">
+        <div class="card-img" style="background-image: url('@product.Image')">
+
+        </div>
+        <div class="card-footer text-center">
+            <h5 class="card-title">@product.Name</h5>
+            <p class="font-weight-bold" style="color: orange;">@product.Price $</p>
+            <p>@product.Description</p>
+        </div>
+    </div>
+      
+    }
+</div>
+
