@@ -35,9 +35,17 @@
                 @Html.DisplayFor(modelItem => item.Name)
             </td>
             <td>
-                <div class="card-img" style="background-image: url('@Html.DisplayFor(modelItem => item.Image)'); height:100px">
+                @if (item.Image != null)
+                {
+                    <div class="card-img" style="background-image: url('@Html.DisplayFor(modelItem => item.Image)'); height:100px">
 
-                </div>
+                    </div>
+                }
+
+           
+                @*<div class="card-img">
+                    <img src="@("~/image/" + item.Image)" asp-append-version="true" />
+                </div>*@
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Description)
