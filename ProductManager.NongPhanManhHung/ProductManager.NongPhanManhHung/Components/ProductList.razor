@@ -1,0 +1,20 @@
+﻿@using ProductManager.NongPhanManhHung.Services
+@using Microsoft.AspNetCore.Components.Web
+@inject JsonFileProductServices ProdcutService
+<div class="card-columns">
+    @foreach (var product in ProdcutService.GetProducts())
+    {
+    <div class="card">
+        <div class="card-img" style="background-image: url('@product.Image')">
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">@product.Name</h5>
+            <p>@product.Price $</p>
+        </div>
+    </div>
+
+    }
+</div>
+@code {
+
+}
