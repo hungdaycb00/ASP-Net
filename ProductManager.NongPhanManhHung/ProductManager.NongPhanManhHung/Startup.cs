@@ -49,6 +49,7 @@ namespace ProductManager.NongPhanManhHung
 
             app.UseRouting();
 
+
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
