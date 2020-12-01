@@ -1,51 +1,57 @@
 [
   {
-    "id": "jenlooper-cactus",
-    "name": "@jenlooper",
-    "image": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-    "price": 99
+    "id": 1,
+    "name": "Honda CBR1000RR-R SP",
+    "image": "https://motorrock.com.vn/upload/hinhanh/thumb/honda-cbr1000rr-r-sp3408.jpg",
+    "price": 998000000
   },
   {
-    "id": "jenlooper-cactus",
-    "name": "@jenlooper",
-    "image": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-    "price": 99
+    "id": 2,
+    "name": "Z650 2020",
+    "image": "https://motorrock.com.vn/upload/hinhanh/thumb/z650-2020160b.jpg",
+    "price": 187000000
   },
   {
-    "id": "jenlooper-cactus",
-    "name": "@jenlooper",
-    "image": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-    "price": 99
+    "id": 3,
+    "name": "Ninja 650 2020",
+    "image": "https://motorrock.com.vn/upload/hinhanh/thumb/adminninja-650-2020956b.jpg",
+    "price": 147000000
   },
   {
-    "id": "jenlooper-cactus",
-    "name": "@jenlooper",
-    "image": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-    "price": 99
+    "id": 4,
+    "name": "Z400 2020",
+    "image": "https://motorrock.com.vn/upload/hinhanh/thumb/kawasaki-z400-abs4360.jpg",
+    "price": 197000000
   },
   {
-    "id": "jenlooper-cactus",
-    "name": "@jenlooper",
-    "image": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-    "price": 99
+    "id": 5,
+    "name": "Z650 ABS",
+    "image": "https://motorrock.com.vn/upload/hinhanh/thumb/kawasaki-z650-abs-20196100.jpg",
+    "price": 412000000
   },
   {
-    "id": "jenlooper-cactus",
-    "name": "@jenlooper",
-    "image": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-    "price": 99
+    "id": 6,
+    "name": "Z1000 ABS",
+    "image": "https://motorrock.com.vn/upload/hinhanh/thumb/z1000-abs4770.jpg",
+    "price": 288000000
   },
   {
-    "id": "jenlooper-cactus",
-    "name": "@jenlooper",
-    "image": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-    "price": 99
+    "id": 7,
+    "name": "Ninja 400 ABS",
+    "image": "https://motorrock.com.vn/upload/hinhanh/thumb/kawasaki-ninja-400-abs-20192840.jpg",
+    "price": 156000000
   },
   {
-    "id": "jenlooper-cactus",
-    "name": "@jenlooper",
-    "image": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-    "price": 99
+    "id": 8,
+    "name": "Ninja 650 ABS",
+    "image": "https://motorrock.com.vn/upload/hinhanh/thumb/kawasaki-ninja-650-abs-20199760.jpg",
+    "price": 197000000
+  },
+  {
+    "id": 9,
+    "name": "YZF R1M",
+    "image": "https://motorrock.com.vn/upload/hinhanh/thumb/yzr-r1m192b.jpg",
+    "price": 999000000
   }
-
+  
 ]
